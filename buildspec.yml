@@ -17,4 +17,4 @@ phases:
     commands:
       - echo build process finished, we should uplload to S3 now
       - ls -la
-      - aws s3 sync .next/ s3://codebuild-first-next-ott-app --delete
+      - aws s3 sync .out/ s3://codebuild-first-next-ott-app --delete
