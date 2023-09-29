@@ -28,14 +28,14 @@ export default function Page() {
           </p>
         </Link>
 
-        <Link href="/NextJs in 7 Minutes copy.mp4">
+        <Link href="/NextJs in 7 Minutes.mp4">
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            NextJs in 7 Minutes copy
+            NextJs in 7 Minutes 1st
           </h2>
           <Image
             className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
             src="/Next JS tutorial 1.PNG"
-            alt="NextJs in 7 Minutes copy Logo"
+            alt="NextJs in 7 Minutes 1st Logo"
             width={360}
             height={280}
             priority
@@ -47,9 +47,9 @@ export default function Page() {
           </p>
         </Link>
 
-        <Link href="/NextJs in 7 Minutes copy 2.mp4">
+        <Link href="/NextJs in 7 Minutes.mp4">
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            NextJs in 7 Minutes copy 2
+            NextJs in 7 Minutes 2nd
           </h2>
           <Image
             className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
@@ -66,9 +66,9 @@ export default function Page() {
           </p>
         </Link>
 
-        <Link href="/NextJs in 7 Minutes copy 3.mp4">
+        <Link href="/NextJs in 7 Minutes.mp4">
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            NextJs in 7 Minutes copy 3
+            NextJs in 7 Minutes 3rd
           </h2>
           <Image
             className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
@@ -85,9 +85,9 @@ export default function Page() {
           </p>
         </Link>
 
-        <Link href="/NextJs in 7 Minutes copy 4.mp4">
+        <Link href="/NextJs in 7 Minutes.mp4">
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            NextJs in 7 Minutes copy 4
+            NextJs in 7 Minutes 4th
           </h2>
           <Image
             className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
